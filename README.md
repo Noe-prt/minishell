@@ -24,7 +24,7 @@ This project was a significant learning experience, requiring multiple iteration
 - The shell is designed to be user-friendly, providing clear prompts and error messages.
 
 ## Project Status
-- **First Attempt**: Success (Fully Functional Shell, met a minishell breaker :))
+- **First Attempt**: Success (Fully Functional Shell)
 - **Completion Time**: ~12 days
 
 ## Challenges Faced
